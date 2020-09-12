@@ -1,1 +1,2 @@
 assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab
+test
